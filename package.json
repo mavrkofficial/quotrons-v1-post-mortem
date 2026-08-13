@@ -1,0 +1,19 @@
+{
+  "name": "quotrons-v1-post-mortem",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:migration": "node scripts/build-migration-ledgers.mjs",
+    "build:markets": "node scripts/build-market-catalog.mjs",
+    "build:transactions": "node scripts/build-mitigation-ledger.mjs",
+    "checksums": "node scripts/generate-checksums.mjs",
+    "verify": "node scripts/verify-evidence.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "viem": "^2.55.15"
+  }
+}

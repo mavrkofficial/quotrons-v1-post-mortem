@@ -1,0 +1,25 @@
+{
+  "schema": "quotrons-v1-post-mortem-market-catalog-v1",
+  "capturedAt": "2026-08-13T12:04:43.011Z",
+  "chainId": 4663,
+  "quotron": "0x40686524e56aff0f1446958725dcf6e6da5381e6",
+  "poolManager": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+  "floorHook": "0x5a7d914597476393794e100ddd8b70f8c3f570cc",
+  "cutoffBlock": "34984482",
+  "scannedThroughBlock": "35376243",
+  "source": {
+    "pairDiscovery": "https://api.dexscreener.com/latest/dex/tokens/0x40686524e56AfF0F1446958725dCF6e6dA5381E6",
+    "immutableActivity": "Robinhood Chain eth_getLogs",
+    "limitation": "Pair discovery is limited to pools indexed by DexScreener at capture time."
+  },
+  "totals": {
+    "listedPools": 30,
+    "canonicalPools": 10,
+    "canonicalPostCutoffSwaps": 0,
+    "externalPools": 20,
+    "externalPoolsActiveAfterCutoff": 9,
+    "externalPostCutoffSwaps": 562,
+    "externalPostCutoffQuotronTurnoverWei": "276784368824010543604",
+    "externalPostCutoffQuotronTurnover": "276.784368824010543604"
+  }
+}

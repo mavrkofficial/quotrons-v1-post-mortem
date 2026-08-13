@@ -1,0 +1,12 @@
+{
+  "snapshotBlock": "34984482",
+  "snapshotBlockHash": "0xfbe4be5a06e1c2af4d3b64d2e16ca421dadf962a849dd8aca86fd1706fbb882d",
+  "hardwiredOwnershipCutoffBlock": "35337540",
+  "hardwiredOwnershipCutoffHash": "0x85a3668228eb45a92d4b41e042ba15058978924fe279808004ff891216250eb4",
+  "postLiquidCutoffHardwiresExcluded": 15,
+  "snapshotRoot": "0x1c28b8292e4784ff5cd5209dae8e8667d0648c7748c85ce09b9449af0a1a0cde",
+  "migrationReserveWei": "3925448872639031210668",
+  "manifestSha256": "ba663339dc2ad0678f229b384ffaad40383ca5b22652dcd327f73c07f1ee2f7a",
+  "snapshotSha256": "c00336aeaef8a68aa918fbb0dfec39b8001522f8e2dd60e32cb958632d9d3fa3",
+  "canonicalSnapshotHash": "242d2fa47b15405bfeca47cb4674199132660dba98cbb79608c5afa6817147b9"
+}

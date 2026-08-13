@@ -1,0 +1,34 @@
+{
+  "schema": "quotrons-v1-post-mortem-migration-ledgers-v1",
+  "generatedAt": "2026-08-13T12:02:05.045Z",
+  "chainId": 4663,
+  "legacyQuotron": "0x40686524e56AfF0F1446958725dCF6e6dA5381E6",
+  "liquidCutoff": {
+    "block": "34984482",
+    "blockHash": "0xfbe4be5a06e1c2af4d3b64d2e16ca421dadf962a849dd8aca86fd1706fbb882d",
+    "policy": "Liquid ERC-404 balances, dark ids, fractional balances, and restitution are frozen at block 34984482. Post-cutoff buys and transfers create no V2 entitlement."
+  },
+  "hardwiredOwnershipCutoff": {
+    "block": "35337540",
+    "blockHash": "0x85a3668228eb45a92d4b41e042ba15058978924fe279808004ff891216250eb4",
+    "policy": "Only ids already hardwired at block 34984482 receive lit copies; those ids follow V1 NFT ownership through block 35337540. Later hardwires remain dark allocations owned at block 34984482."
+  },
+  "commitment": {
+    "merkleRoot": "0x1c28b8292e4784ff5cd5209dae8e8667d0648c7748c85ce09b9449af0a1a0cde",
+    "snapshotSha256": "c00336aeaef8a68aa918fbb0dfec39b8001522f8e2dd60e32cb958632d9d3fa3",
+    "manifestSha256": "ba663339dc2ad0678f229b384ffaad40383ca5b22652dcd327f73c07f1ee2f7a",
+    "canonicalSnapshotHash": "242d2fa47b15405bfeca47cb4674199132660dba98cbb79608c5afa6817147b9",
+    "migrationReserveWei": "3925448872639031210668"
+  },
+  "counts": {
+    "leaves": 4307,
+    "accounts": 734,
+    "darkTerminalMappings": 1425,
+    "hardwiredTerminalMappings": 2001,
+    "fractionalAllocations": 521,
+    "restitutionEvents": 360,
+    "postLiquidCutoffHardwiresExcluded": 15,
+    "hardwiredAtOwnershipCutoff": 2016,
+    "eligibleHardwiredLitCopies": 2001
+  }
+}

@@ -1,0 +1,16 @@
+terminal_id,liquid_cutoff_owner,hardwired_cutoff_owner,floor_code,tier_index,treatment
+146,0x0000000000000000000000000000000000000000,0xf6f49763360c890149e99000547D16061bae73f8,2,0,No V2 allocation; terminal was unminted at the liquid cutoff.
+317,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,5,0,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+725,0xE3BC9c9e02919863Bf1e1F5646Fa8C1a3E2469f4,0x241bB606ED99D0Db0B6Cdc108c14467B0FdBC6c8,8,0,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+927,0x37bbFc32408449Ec4251bf3C2fef4F7CD52746ba,0x37bbFc32408449Ec4251bf3C2fef4F7CD52746ba,1,1,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+1504,0x0000000000000000000000000000000000000000,0x00075dcB3e05Ba3a3192C1635DAa97EbE4d023F9,5,1,No V2 allocation; terminal was unminted at the liquid cutoff.
+1590,0x0000000000000000000000000000000000000000,0x64dC02CFE35189F8644f6429002Af6AdFb866858,5,1,No V2 allocation; terminal was unminted at the liquid cutoff.
+1659,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,4,0,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+2490,0x0000000000000000000000000000000000000000,0x1b6fd42848A7A3de49B3A8fe383Cf5559A4019E4,3,0,No V2 allocation; terminal was unminted at the liquid cutoff.
+2789,0x0000000000000000000000000000000000000000,0x5cD0C3C119bd13502A4e18C8DD74a2bF7366466A,2,0,No V2 allocation; terminal was unminted at the liquid cutoff.
+2811,0x0000000000000000000000000000000000000000,0x803Ef4352FD0cA9ebbF78D50c81da36121f1e0E3,6,2,No V2 allocation; terminal was unminted at the liquid cutoff.
+2945,0x0000000000000000000000000000000000000000,0x0fB06273b43A96c1286aa2E23FC209fDa089B12A,0,0,No V2 allocation; terminal was unminted at the liquid cutoff.
+3199,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,0x71F9CCd68bf1f5F9b571f509E0765A04ca4fFad2,5,0,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+3582,0xAd24967346087A643CF1F372788A8DaEB4FBA2A0,0xAd24967346087A643CF1F372788A8DaEB4FBA2A0,2,0,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+3827,0xfD5Cc1b62A7792D727Db762A2e1abC2615e650c2,0x92f52042df7AFB391CA9950B5Cd3A5943F9D8f3b,1,2,No V2 lit claim; preserve the liquid-cutoff dark allocation.
+3890,0xef65cF8a7DbeB1fbF9E7EC5341B96c16424fD4De,0x4910E245B9A9C89d73e9D80aD179Ab484C508405,6,2,No V2 lit claim; preserve the liquid-cutoff dark allocation.

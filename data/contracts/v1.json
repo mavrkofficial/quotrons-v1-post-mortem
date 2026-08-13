@@ -1,0 +1,22 @@
+{
+  "schema": "quotrons-v1-contract-registry-v1",
+  "chainId": 4663,
+  "explorer": "https://robinhoodchain.blockscout.com",
+  "contracts": {
+    "quotron404": "0x40686524e56AfF0F1446958725dCF6e6dA5381E6",
+    "mirror": "0xbde7BEc47cbFc689e5E952B6cdD113A500abcd83",
+    "reflections": "0x666A51Eb731a9CF79d97B4A9c64cD5a4806c877C",
+    "floorHook": "0x5A7D914597476393794E100dDD8b70f8c3f570CC",
+    "poolManager": "0x8366a39CC670B4001A1121B8F6A443A643e40951",
+    "seeder": "0xe2EaE8F7eB81Bb4a5971BB65847632bc6Be6cf18"
+  },
+  "publishedRoles": {
+    "v1Owner": "0x7171E64E979265aeD6588577D1c6b60A701d7866",
+    "keeper": "0xd1dE50B724de2e243D3f6f3C3ef1806BABD39e58"
+  },
+  "incidentIdentifiers": {
+    "observedContract": "0xB53CcF301CF2E2283265810372a0915Defb7e53d",
+    "observedOperator": "0x2001a402E8803c1C92317c080326f1c80aA74532",
+    "bannedRuntimeCodehash": "0x849542ca8df7205f2117bfa1a8556e57c3a2a71e7b806e07597a33a5f8835723"
+  }
+}
